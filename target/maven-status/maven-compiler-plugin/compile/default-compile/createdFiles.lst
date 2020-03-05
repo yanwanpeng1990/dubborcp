@@ -1,0 +1,11 @@
+com\shican\spi\util\Holder.class
+com\shican\spi\car\impl\BigCar.class
+com\shican\spi\car\impl\Mather.class
+com\shican\spi\car\impl\Father.class
+com\shican\spi\loader\ShiCanExtensionLoader.class
+com\shican\spi\car\impl\SmallCar.class
+com\shican\spi\Main$1.class
+com\shican\spi\annotation\ShiCanSpi.class
+com\shican\spi\Main.class
+com\shican\spi\car\impl\Person.class
+com\shican\spi\car\Car.class
